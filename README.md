@@ -1,6 +1,7 @@
 #I2C-BME280 check
-Hier wird die Funktionalität des BME280 von Adafruit getestet
-https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/pinouts
+Hier wird die Funktionalität des BH1750 getestet
+https://cdn.shopify.com/s/files/1/1509/1638/files/AZ104_A6-9_DE_B07TKWNGZ4.pdf?v=1721047225
 
-![Adafruit-BME280-Modul](images/Adafruit_BME280.png)
+![AzDelivery BH1750](images/BH1750.png)
+
 
