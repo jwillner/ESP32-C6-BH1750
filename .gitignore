@@ -1,0 +1,36 @@
+# --- PlatformIO ---
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio/libdeps/
+.pio/build/
+.pio/test/
+
+# --- VS Code ---
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# --- Arduino ---
+*.bin
+*.elf
+*.hex
+
+# --- macOS-Systemdateien ---
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+.fseventsd
+
+# --- Python Cache (PlatformIO benutzt Python) ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Sonstiges ---
+*.log
+*.tmp
+*.swp
